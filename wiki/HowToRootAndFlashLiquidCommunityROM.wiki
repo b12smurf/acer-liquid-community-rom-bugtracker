@@ -29,15 +29,18 @@ LCR 1.5 was *only* for Acer_LiquidE_0.014f.01_EMEA_GEN1 bin file.
 
 THIS IS THE LATEST AVAILABLE UPDATE !
 
+Acer_Liquid_4.002.14_EMEA-GEN1 (modified to be flashed with liquid A1 s100 too) 
+http://lcr-team.org/v1/index.php?site=files&file=30
+
+OLD VERSIONS
+
+Links to oldest bin are provided for information only or in case you can't find the bin 
+
 Acer_LiquidE_4.504b.00_EMEA-GEN1_05.01.05 (modified to be flashed with liquid A1 s100 too)
 http://lcr-team.org/v1/index.php?site=files&file=19 http://www.multiupload.com/NE5A1DADNR
 
 Acer_LiquidE_4.504b.00_EMEA-GEN1_05.01.05 (original version. Only for Liquid E)
 http://lcr-team.org/v1/index.php?site=files&file=20 
-
-OLD VERSIONS
-
-Links to oldest bin are provided for information only or in case you can't find the bin 
 
 Acer_LiquidE_4.002.02_EMEA-GEN1_05.01.04 (modified to be flashed with liquid and liquidE) http://www.multiupload.com/IJXG1DN5PI
 
