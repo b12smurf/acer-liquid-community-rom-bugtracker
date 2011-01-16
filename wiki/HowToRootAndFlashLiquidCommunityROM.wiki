@@ -21,9 +21,11 @@ LCR 1.5 was *only* for Acer_LiquidE_0.014f.01_EMEA_GEN1 bin file.
 
 *for LCR-F and LCR-E, We strongly advice you to update to latest bin file using acer download tool.
 
+** LCR-F need a froyo bin to be installed first in order to work **
 
 
-=== You need to flash the latest bin file in order to have better radio/battery performance and the right parition scheme ===
+
+=== You need to flash the latest bin file in order to have better radio/battery performance and the right partition scheme ===
 
 === bin file ===
 
