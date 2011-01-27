@@ -106,7 +106,10 @@ http://acer-liquid-community-rom-bugtracker.googlecode.com/files/Superboot.zip S
 
 
 Our latest ROM, look for it here: 
+<wiki:comment>
 http://code.google.com/p/acer-liquid-community-rom-bugtracker/downloads/list
+</wiki:comment>
+http://lcr-team.org/v1/index.php?site=files&cat=1
 
 == How to install ==
 
@@ -115,7 +118,7 @@ http://code.google.com/p/acer-liquid-community-rom-bugtracker/downloads/list
 * Note that if you use the superboot.zip, it will install an old version of malez recovery image that may not work with your bin file. Check here http://code.google.com/p/acer-liquid-malez-recovery/ to benefit of latest enhancements *
 ===
 
-=== Your current liquid android version is 1.6 (not 2.1) ===
+=== Your current liquid android version is 1.6 (or 2.1) ===
 
 **If you own a liquid E or a liquid s100 with the official update to Eclair from acer, you don't need to do this. You can also *update using official update to Eclair* (see acer support site) instead of following this step. It will be easier for you**
 
@@ -137,7 +140,7 @@ Attach your Acer Liquid and press Start. It should start flashing the stock Écl
 Don't interrupt this process!! In case of communication error during flash process. You can unplug and replug usb, don't power off the phone.
 
 
-=== You already have latest bin file for android 2.1 installed (if unsure follow first step) or you have just followed the previous chapter ===
+=== You already have latest bin file for android 2.2 installed (if unsure follow first step) or you have just followed the previous chapter ===
 
 {{{
 You already have installed the liquid e bin file or installed official acer 2.1 update 
