@@ -1,7 +1,7 @@
 #summary This Wiki contains a How-To guide
 #labels Featured
 
-= Tutorial to install community rom =
+= Tutorial to install Froyo community rom (LCR-F)=
 
 == Important == 
 
@@ -118,9 +118,7 @@ http://lcr-team.org/v1/index.php?site=files&cat=1
 * Note that if you use the superboot.zip, it will install an old version of malez recovery image that may not work with your bin file. Check here http://code.google.com/p/acer-liquid-malez-recovery/ to benefit of latest enhancements *
 ===
 
-=== Your current liquid android version is 1.6 (or 2.1) ===
-
-**If you own a liquid E or a liquid s100 with the official update to Eclair from acer, you don't need to do this. You can also *update using official update to Eclair* (see acer support site) instead of following this step. It will be easier for you**
+=== Installing the bin file ===
 
 *1)*
 Unpack the drivers.
@@ -140,13 +138,7 @@ Attach your Acer Liquid and press Start. It should start flashing the stock Écl
 Don't interrupt this process!! In case of communication error during flash process. You can unplug and replug usb, don't power off the phone.
 
 
-=== You already have latest bin file for android 2.2 installed (if unsure follow first step) or you have just followed the previous chapter ===
-
-{{{
-You already have installed the liquid e bin file or installed official acer 2.1 update 
-If that's not the case, follow first step
-}}}
-
+=== Installing recovery and LCR-F rom ===
 
 *1)*
 Unpack the Superboot.zip.
@@ -156,7 +148,7 @@ Unpack the Superboot.zip.
 *3)* 
 Boot your phone in normal mode and check that usb debugging is enabled in settings/Apps/Developpement
 
-*4)* Put our latest ROM .zip into the root of the SDCard. You will find our latest rom in the [http://lcr-team.org/v1/index.php?site=files&cat=1 download section] of our new site http://lcr-team.org (or on this site for old LCR-E (eclair) rom. Rom is about 80 Mo for eclair and 110Mo for Froyo.
+*4)* Put our latest ROM .zip into the root of the SDCard. You will find our latest rom in the [http://lcr-team.org/v1/index.php?site=files&cat=1 download section] of our new site http://lcr-team.org (or on this site for old LCR-E (eclair) rom. Rom is about 110Mo for Froyo.
 Rom files are named LCR-X_Y-signed.zip where X is S for stream base, E for eclair, and F for froyo and Y is the version number.
 
 To access you sd card from your computer, slide down the notification bar and choose the appropriate item.(It must be something like "Connected to an usb cable, activate to copy file")
