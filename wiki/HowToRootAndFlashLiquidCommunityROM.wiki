@@ -143,18 +143,18 @@ Don't interrupt this process!! In case of communication error during flash proce
 *1)*
 Unpack the Superboot.zip.
 
-*2)* Check here http://code.google.com/p/acer-liquid-malez-recovery/ if a new revovery version is available. Now an esay installer and installation script are available. Choosing them will make installation easier.
+*2)* Check here http://code.google.com/p/acer-liquid-malez-recovery/ if a new revovery version is available. Now an easy installer and installation script are available. Choosing them will make installation easier. If your phone is a Liquid Ferrari, you need to download malezRecovery_X_liquidFerrari.img.
 
 *3)* 
-Boot your phone in normal mode and check that usb debugging is enabled in settings/Apps/Developpement
+Boot your phone in normal mode and enable usb debugging in settings/Apps/Developpement
 
 *4)* Put our latest ROM .zip into the root of the SDCard. You will find our latest rom in the [http://lcr-team.org/v1/index.php?site=files&cat=1 download section] of our new site http://lcr-team.org (or on this site for old LCR-E (eclair) rom. Rom is about 110Mo for Froyo.
-Rom files are named LCR-X_Y-signed.zip where X is S for stream base, E for eclair, and F for froyo and Y is the version number.
+(Rom files are named LCR-X_Y-signed.zip where X is S for stream base, E for eclair, and F for froyo and Y is the version number.)
 
 To access you sd card from your computer, slide down the notification bar and choose the appropriate item.(It must be something like "Connected to an usb cable, activate to copy file")
 
-*5)* If you have choosen to download *recovery easy installer*, you just have to run it when the phone is in normal mode and recovery will be installed. Then you can *go to step 7 directly*.
-Otherwise, if you don't use an installer (or if no installer is provided for your phone model), take the malez_recovery_XXXXXX.img file and put it in in the unpacked directory and rename it to recovery.img. 
+*5)* If you have choosen to download *installMalezRecovery_X_FULL.exe*, you just have to run it when the phone is in normal mode and recovery will be installed. Then you can *go to step 7 directly*.
+Otherwise, if you don't use an installer (or if no installer is provided for your phone model, like Ferrari), take the malez_recovery_XXXXXX.img file and put it in in the unpacked directory and rename it to recovery.img. 
 Then reboot your phone in bootloader mode using reboot-bootloader-windows.bat" (windows) or launch "sh reboot-bootloader-linux.sh, or adb reboot bootloader
 
 *6)* Run the "install-recovery-windows.bat" (windows) or "sh install-recovery-linux.sh" (linux)
